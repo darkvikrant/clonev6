@@ -254,7 +254,7 @@ def crack():
 	os.system('clear')
 	print logo
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;95mClone Friend List Public ID."
-        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;95mFACEBOOK CONTECT.
+        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;95mFACEBOOK CONTECT."
 	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_crack()
 
